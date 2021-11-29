@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam labore quia voluptates numquam! Ea, suscipit?",
+    "category": "Vegetable",
+    "image": "post-1.jpg"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam labore quia voluptates numquam! Ea, suscipit?",
+    "category": "Farm",
+    "image": "post-2.jpg"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam labore quia voluptates numquam! Ea, suscipit?",
+    "category": "Farm",
+    "image": "post-3.jpg"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam labore quia voluptates numquam! Ea, suscipit?",
+    "category": "Farm",
+    "image": "post-4.jpg"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam labore quia voluptates numquam! Ea, suscipit?",
+    "category": "Vegetable",
+    "image": "post-5.jpg"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam labore quia voluptates numquam! Ea, suscipit?",
+    "category": "People",
+    "image": "post-6.jpg"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam labore quia voluptates numquam! Ea, suscipit?",
+    "category": "Vegetable",
+    "image": "post-7.jpg"
+  }
+]
